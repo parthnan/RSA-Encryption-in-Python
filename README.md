@@ -6,4 +6,4 @@ Carmichael_numbers.ipynb	:  Checks whether given number is Carmichael or not. Al
 Fermat_test_for primes.ipynb	:  Checks whether given number is Prime or not using a simple loop on the Fermat test.
 RSA_Encryption.ipynb	:   Encrypts a given string using the RSA Encrytion key. Also decrypts immediately with the decryption key.
 RSA_Encryption_with_ED_input.ipynb	 :  
-seccap_constants190624.py  :  Used in the above files, for declaring global constants (the input cases and keys).
+seccap_constants190624.py  :  Used in the above files, for declaring global constants (the input cases and keys).　
